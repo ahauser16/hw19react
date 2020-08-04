@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Adam White",
+      "occupation": "Supervisor",
+      "location": "Boston"
+    },
+    {
+      "id": 2,
+      "name": "Barry Red",
+      "occupation": "Driver",
+      "location": "Dallas"
+    },
+    {
+      "id": 3,
+      "name": "Chris Blue",
+      "occupation": "Security",
+      "location": "Portland"
+    },
+    {
+      "id": 4,
+      "name": "Daniel Pink",
+      "occupation": "Clown",
+      "location": "New York City"
+    },
+    {
+      "id": 5,
+      "name": "Erny Green",
+      "occupation": "Accountant",
+      "location": "Los Angeles"
+    },
+    {
+      "id": 6,
+      "name": "Dal Matian",
+      "occupation": "Clown",
+      "location": "Boston"
+    },
+    {
+      "id": 7,
+      "name": "Rover Bones",
+      "occupation": "Clown",
+      "location": "Dallas"
+    },
+    {
+      "id": 8,
+      "name": "Ted Danson",
+      "occupation": "Security",
+      "location": "Portland"
+    },
+    {
+      "id": 9,
+      "name": "Rick",
+      "occupation": "Security",
+      "location": "New York City"
+    },
+    {
+      "id": 10,
+      "name": "Morty",
+      "occupation": "Security",
+      "location": "Los Angeles"
+    }
+  ]
+  
